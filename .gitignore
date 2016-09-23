@@ -3,3 +3,11 @@
 ################################################################################
 
 /packages
+/LotteryApp.Shell/obj/Debug
+/LotteryApp.Shell/bin/Debug
+/LotteryApp.Service/obj/Debug
+/LotteryApp.Service/bin
+/LotteryApp.Common.UnitTest/obj/Debug
+/LotteryApp.Common.UnitTest/bin/Debug
+/LotteryApp.Common/obj/Debug
+/.vs/config
